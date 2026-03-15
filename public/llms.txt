@@ -1,45 +1,35 @@
-# זכייה בטוחה — Generative Engine Optimization Map
-
-> A comprehensive information and guidance website for winners of subsidized housing projects in Israel. The site focuses on two critical phases: choosing the right apartment and navigating the mortgage process. The brand serves as a trusted advisor helping people successfully complete their journey from winning a subsidized housing lottery to becoming homeowners.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://-d96810e6.zappy5.app
+https://example.com
 זכיתם בדירה בהנחה? קבלו מדריך מקיף לבחירת הדירה הנכונה ולקבלת משכנתא אטרקטיבית. ליווי מקצועי לזוכי פרויקטים עד קבלת המפתח.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-d96810e6.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-d96810e6.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-d96810e6.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About זכייה בטוחה
-A comprehensive information and guidance website for winners of subsidized housing projects in Israel. The site focuses on two critical phases: choosing the right apartment and navigating the mortgage process. The brand serves as a trusted advisor helping people successfully complete their journey from winning a subsidized housing lottery to becoming homeowners.
-
-## Target Audience
-זוכי פרויקט דירה בהנחה
-
-## Industry
-נדל"ן ומשכנתאות
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-d96810e6.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-d96810e6.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
